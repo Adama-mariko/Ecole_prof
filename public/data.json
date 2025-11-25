@@ -1,0 +1,103 @@
+{
+  "teachers": [
+    {
+      "id": "1",
+      "name": "Thomas Bernard",
+      "city": "Abidjan",
+      "level": "Collège",
+      "subject": "Physique-chimie",
+      "phone": "04 56 78 90 12",
+      "price": "2000/h",
+      "photoDataUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop&crop=face",
+      "rating": 4.6,
+      "reviews": 18,
+      "experience": 8
+    },
+    {
+      "id": "2",
+      "name": "Marie Dubois",
+      "city": "Bouaké",
+      "level": "Lycée",
+      "subject": "Philosophie",
+      "phone": "04 91 23 45 67",
+      "photoDataUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&h=400&fit=crop&crop=face",
+      "rating": 4.9,
+      "reviews": 32,
+      "experience": 12
+    },
+    {
+      "id": "3",
+      "name": "Pierre Leroy",
+      "city": "Daloa",
+      "level": "Collège",
+      "subject": "Anglais",
+      "phone": "05 34 56 78 90",
+      "price": "1800/h",
+      "photoDataUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face",
+      "rating": 4.7,
+      "reviews": 21,
+      "experience": 6
+    },
+    {
+      "id": "4",
+      "name": "Camille Petit",
+      "city": "Korhogo",
+      "level": "Lycée",
+      "subject": "Histoire-Géographie",
+      "phone": "05 56 78 90 12",
+      "photoDataUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop&crop=face",
+      "rating": 4.5,
+      "reviews": 15,
+      "experience": 7
+    },
+     {
+      "id": "5",
+      "name": "Camille Petit",
+      "city": "Korhogo",
+      "level": "Lycée",
+      "subject": "Histoire-Géographie",
+      "phone": "05 56 78 90 12",
+      "photoDataUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop&crop=face",
+      "rating": 4.5,
+      "reviews": 15,
+      "experience": 7
+    },
+    {
+      "id": "6",
+      "name": "Aïcha Koné",
+      "city": "Abidjan",
+      "level": "Primaire",
+      "subject": "Français",
+      "phone": "07 12 34 56 78",
+      "photoDataUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=400&fit=crop&crop=face",
+      "rating": 4.8,
+      "reviews": 27,
+      "experience": 6
+    },
+    {
+      "id": "7",
+      "name": "Mohamed Traoré",
+      "city": "Bouaké",
+      "level": "Collège",
+      "subject": "Mathématique",
+      "phone": "05 67 89 01 23",
+      "price": "2200/h",
+      "photoDataUrl": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&h=400&fit=crop&crop=face",
+      "rating": 4.9,
+      "reviews": 35,
+      "experience": 9
+    },
+    {
+      "id": "8",
+      "name": "Claire Aké",
+      "city": "San-Pédro",
+      "level": "Lycée",
+      "subject": "SVT",
+      "phone": "03 45 67 89 01",
+      "photoDataUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&h=400&fit=crop&crop=face",
+      "rating": 4.7,
+      "reviews": 19,
+      "experience": 8
+    }
+  ]
+}
