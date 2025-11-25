@@ -93,19 +93,61 @@ export default function Footer() {
                         
                         {/* Réseaux sociaux */}
                         <div className="pt-4">
-                            <h4 className="text-white font-semibold mb-3">Suivez-moi</h4>
-                            <div className="flex space-x-4">
-                                <a href="#" className="w-10 h-10 bg-slate-800 rounded-full flex items-center justify-center hover:bg-blue-600 transition-colors">
-                                    <span className="text-white">in</span>
-                                </a>
-                                <a href="#" className="w-10 h-10 bg-slate-800 rounded-full flex items-center justify-center hover:bg-gray-700 transition-colors">
-                                    <span className="text-white">Gh</span>
-                                </a>
-                                <a href="#" className="w-10 h-10 bg-slate-800 rounded-full flex items-center justify-center hover:bg-purple-600 transition-colors">
-                                    <span className="text-white">Ig</span>
-                                </a>
-                            </div>
-                        </div>
+                   <h4 className="text-white font-semibold mb-3">Suivez-moi</h4>
+
+                   <div className="flex space-x-4">
+
+                    {/* Facebook */}
+                    <a 
+                        href="#" 
+                        className="w-10 h-10 bg-slate-800 rounded-full flex items-center justify-center 
+                                hover:bg-blue-600 transition-colors"
+                    >
+                        <svg 
+                            xmlns="http://www.w3.org/2000/svg" 
+                            className="w-5 h-5 text-white" 
+                            fill="currentColor" 
+                            viewBox="0 0 24 24"
+                        >
+                            <path d="M22 12a10 10 0 1 0-11.5 9.9v-7H8v-3h2.5V9.5c0-2.5 1.5-3.9 3.7-3.9 1.1 0 2.2.2 2.2.2v2.4H15c-1.2 0-1.6.8-1.6 1.6V12H17l-.5 3h-2.5v7A10 10 0 0 0 22 12"/>
+                        </svg>
+                    </a>
+
+                    {/* Twitter / X */}
+                    <a 
+                        href="#" 
+                        className="w-10 h-10 bg-slate-800 rounded-full flex items-center justify-center 
+                                hover:bg-gray-700 transition-colors"
+                    >
+                        <svg 
+                            xmlns="http://www.w3.org/2000/svg" 
+                            className="w-5 h-5 text-white" 
+                            fill="currentColor" 
+                            viewBox="0 0 24 24"
+                        >
+                            <path d="M18.36 2H21l-6.53 7.46L22 22h-6.24l-4.87-6.52L5 22H2.36l7.03-8.03L2 2h6.26l4.57 6.17L18.36 2z"/>
+                        </svg>
+                    </a>
+
+                    {/* Instagram */}
+                    <a 
+                        href="#" 
+                        className="w-10 h-10 bg-slate-800 rounded-full flex items-center justify-center 
+                                hover:bg-purple-600 transition-colors"
+                    >
+                        <svg 
+                            xmlns="http://www.w3.org/2000/svg" 
+                            className="w-5 h-5 text-white" 
+                            fill="currentColor" 
+                            viewBox="0 0 24 24"
+                        >
+                            <path d="M7 2C4.2 2 2 4.2 2 7v10c0 2.8 2.2 5 5 5h10c2.8 0 5-2.2 5-5V7c0-2.8-2.2-5-5-5H7zm10 2c1.7 0 3 1.3 3 3v10c0 1.7-1.3 3-3 3H7c-1.7 0-3-1.3-3-3V7c0-1.7 1.3-3 3-3h10zm-5 3.5A5.5 5.5 0 1 0 17.5 13 5.51 5.51 0 0 0 12 7.5zm0 9A3.5 3.5 0 1 1 15.5 13 3.5 3.5 0 0 1 12 16.5zM17.8 6.2a1.3 1.3 0 1 0 1.3 1.3 1.3 1.3 0 0 0-1.3-1.3z"/>
+                        </svg>
+                    </a>
+
+                </div>
+            </div>
+
                     </div>
                 </div>
 
