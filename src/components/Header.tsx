@@ -11,7 +11,10 @@ export default function Header() {
                 <div className="flex items-center space-x-2">
             <div className="flex items-center space-x-2">
                 <div className="text-xl font-bold">
-                    Adama<span className="text-indigo-600">École</span>
+                   <Link to="/">
+                        Adama <span className="text-indigo-600">École</span>
+                   </Link>
+
                 </div>
                 <div className="text-indigo-600">🎓</div>
                 </div>
